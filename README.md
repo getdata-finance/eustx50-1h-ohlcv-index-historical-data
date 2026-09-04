@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1h` sample updated in sync
 
-> **Sample on GitHub** · `EUSTX50_1h.csv` (924 rows, `2026-06-02` -> `2026-09-01`, 94.51 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eustx50)** — **49,866** `1h` rows (full `1m`: 2,836,357), **11 timeframes**, `2012-08-27` -> `2026-09-01`.
+> **Sample on GitHub** · `EUSTX50_1h.csv` (924 rows, `2026-06-02` -> `2026-09-01`, 94.51 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eustx50)** — **49,866** `1h` rows (full `1m`: 2,770,438), **11 timeframes**, `2012-08-27` -> `2026-09-01`.
 
 ## Download sample
 
